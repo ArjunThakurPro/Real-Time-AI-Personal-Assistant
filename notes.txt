@@ -1,0 +1,7 @@
+intallation requirement for RAG (Retrieval-Augmented Generation)
+ -> !pip install langchain langchain-core langchain-community pypdf pymupdf sentence-transformers chromadb
+   langchain langchain-core langchain-community ->Document
+   pypdf ->for reading simple pypdf
+   pymupdf -> for reading complex pdf(img)
+   sentence-transformers -> For Embedding
+   chromadb  -> for vector database
